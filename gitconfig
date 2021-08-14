@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = johnitlee@gmail.com
+	name = John Lee
